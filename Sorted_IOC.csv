@@ -424,23 +424,16 @@ Url,https://bafybeigm3wrvmyw5de667rzdgdnct2fvwumyf6zyzybzh3tqvv5jhlx2ta.ipfs.dwe
 Url,https://dasmake.top/reader/timer.php
 Url,https://estanciaferreira.com.br/wp-includes/TIANJIN-DOC-05082024-xls.7z
 Url,https://hedam.shop/simple/Enquiry.7z
-Url,http://148.102.51.6/vendor/guzzle Url,http/guzzle/src/Handler/CurlSingleHandler.php
-Url,http://158.177.2.191/vendor/guzzle Url,http/guzzle/src/Handler/CurlSingleHandler.php
+Url,http://148.102.51.6/vendor/guzzle
+Url,http://guzzle/src/Handler/CurlSingleHandler.php
+Url,http://158.177.2.191/vendor/guzzle
 Url,http://179.191.68.85:82/vendor/sebastian/diff/src/Exception/
-Url,http://179.191.68.85:82/vendor/sebastian/diff/src/Exception/j8UgL3v
-Url,http://179.191.68.85:82/vendor/sebastian/diff/src/Exception/mY5bJK7e
-Url,http://179.191.68.85:82/vendor/sebastian/diff/src/Exception/pQ1iM9hd
-Url,http://179.191.68.85:82/vendor/sebastian/diff/src/Exception/pQ1iM9hd-x64-musl
 Url,http://187.190.1.137/vendor/guzzle Url,http/guzzle/src/Exception/detail.php
 Url,http://204.199.192.44/vendor/paragonie/sodium_compat/src/Core32/Poly25519.php
 Url,http://216.238.103.62:8013/vendor/guzzle Url,http/guzzle/src/Exception/DNSException.php
 Url,http://45.169.87.67/vendor/sabre/event/lib/Promise/
-Url,http://45.169.87.67/vendor/sabre/event/lib/Promise/se3hf6jwc
-Url,http://45.169.87.67/vendor/sabre/event/lib/Promise/wk8dnj2k
-Url,http://64.227.0.146/vendor/guzzle Url,http/guzzle/src/Handler/CurlSingleHandler.php
+Url,http://64.227.0.146/vendor/guzzle
 Url,https://www.auntyaliceschool.site/wp-admin/maint/
-Url,https://www.auntyaliceschool.site/wp-admin/maint/se3hf6jwc
-Url,https://www.auntyaliceschool.site/wp-admin/maint/wk8dnj2k
 Url,https://www.miracles.com.hk/wp-content/plugins/foxiplugin/detail.php
 Url,http://api.gupdate.net:443/agent.ashx
 Url,https://solutionhub.cc:443/socket/
