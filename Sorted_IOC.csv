@@ -175,6 +175,11 @@ DomainName,vscodeupdater.azurewebsites.net
 DomainName,workersquestionsapi.azurewebsites.net
 DomainName,workersquestions.azurewebsites.net
 DomainName,workersquestionsjson.azurewebsites.net
+DomainName,alphaglobal.pt 
+DomainName,dukastotranza.click 
+DomainName,ftp.alphaglobal.pt 
+DomainName,smartkontur.site 
+DomainName,specificsecurity.ru
 FileSha256,ee573647477339784dcef81024de1be1762833a20e5cc2b89a93e47d05b86b6a
 FileSha256,F9B561EB43A91DCBD512EF11BBF3A5FDEE4FCF87E50BD09D28CD6C6C5D0411A0
 FileSha256,A9DE27C594B4A15EFA7AF25C3B649B8FD04C6D3D5C2386B224DA8FABFE685D0F
@@ -653,3 +658,6 @@ IpAddress,206.206.123.176
 IpAddress,194.68.32.114
 IpAddress,173.223.110.175
 IpAddress,23.213.53.10
+IpAddress,79.110.62.116
+IpAddress,194.58.112.174
+IpAddress,176.61.150.117
