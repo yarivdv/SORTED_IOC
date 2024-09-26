@@ -196,6 +196,9 @@ DomainName,bommotmynwjq.shop
 DomainName,swinngydisaosp.shop
 DomainName,teenaggerwwysm.shop
 DomainName,dosedcastrerwns.shop
+FileSha256,a17cae5463618c9758dd98802353f8172e343dcad936a44c5f1d1fe5ff7813f6
+FileSha256,dbda8c6ed6803fd8eeb547a60ee600c101315b478fa055d4a1d0ac438fc45527
+FileSha256,53b88a249d4c970ada7b688e9e44282aa3a36c44a4b170bd2988b5b53c8a224b
 FileSha256,3c317dbab70d3ab4fce944c92532d111f69fd71dca5c7f7c7b8d57e657f26a1a
 FileSha256,350b72b192ad0cef2708a199ae5e89572b3a2a868488d9cc97785ed5f4d9c5d2
 FileSha256,fd6269ba61258f30291430d11ab1f0a6cf13e23d0fb9e6850212d6a1e4ead7ca
@@ -678,6 +681,10 @@ Url,64.188.9.175:9200
 Url,5.83.48.5:6001
 Url,216.107.136.76:7777
 Url,77.105.161.6:8000
+Url,147.45.44.104/yuop/66ec3528901bb_winupdate11.exe
+Url,66.63.187.123/txt/73EtsZxIoDetWTu.exe
+Url,109.248.150.159/tMBNNydkDMqAIHr158.bin
+Url,pub-39c431b0c306497287a06e8cea23fa74.r2.dev
 IpAddress,89.208.96.117
 IpAddress,172.67.157.23
 IpAddress,104.21.48.243
