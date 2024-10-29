@@ -18,6 +18,7 @@ EmailAddress,sp.problemsolver.sp@gmail.com
 EmailAddress,yulia.antonenko@townoflakelure.com
 EmailAddress,alexandra.gerst@townoflakelure.com
 EmailAddress,oleksii.myronov@townoflakelure.com
+EmailAddress,@justdefinition.com
 
 DomainName,ca-central-1.awsplatform.online
 DomainName,ca-west-1.mfa-gov.cloud
@@ -1398,7 +1399,6 @@ IpAddress,5.161.245.155
 IpAddress,20.115.96.90
 IpAddress,91.90.195.52
 IpAddress,195.123.233.42
-IpAddress,15.235.218.150
 IpAddress,77.246.101.135
 IpAddress,103.96.128.44
 IpAddress,144.91.79.54
