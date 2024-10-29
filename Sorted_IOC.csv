@@ -16,6 +16,14 @@ EmailAddress,qq.decrypt@gmail.com
 EmailAddress,qq.encrypt@gmail.com
 EmailAddress,sp.problemsolver.sp@gmail.com
 
+DomainName,rewilivak13.com
+DomainName,greekpool.com
+DomainName,thetrailbig.net
+DomainName,limitedtoday.com
+DomainName,upd7.com
+DomainName,upd7a.com
+DomainName,greekpool.com
+DomainName,rewilivak13.com
 DomainName,securityadminhelper.onmicrosoft.com
 DomainName,supportserviceadmin.onmicrosoft.com
 DomainName,supportadministrator.onmicrosoft.com
@@ -722,6 +730,13 @@ FileSha256,65f0b001ac5c43e755023a572096736e6decc7be7409f071158e9ee841f201b1
 FileSha256,00ae908e07ca608f4d7e110d8df5e3481032294438e7d55e832fcee7d38d32be
 FileSha256,f3efd645a13b19b5cbce009d677300e5ceb5e7fb6edd9f59e20986c6d537c347
 FileSha256,899dc226fa35da5923b2c6e6e0b90834dd1ea0b4d2e156a6bc99acd1a183a2d4
+FileSha256,C18E7709866F8B1A271A54407973152BE1036AD3B57423101D7C3DA98664D108
+FileSha256,59F1C5FE47C1733B84360A72E419A07315FBAE895DD23C1E32F1392E67313859
+FileSha256,2EC12F4EE375087C921BE72F3BD87E6E12A2394E8E747998676754C9E3E9798E
+FileSha256,35456F84BC88854F16E316290104D71A1F350E84B479EEBD6FBB2F77D36BCA8A
+FileSha256,6F31CF7A11189C683D8455180B4EE6A60781D2E3F3AADF3ECC86F578D480CFA9
+FileSha256,A47718693DC12F061692212A354AFBA8CA61590D8C25511C50CFECF73534C750
+FileSha256,76F959205D0A0C40F3200E174DB6BB030A1FDE39B0A190B6188D9C10A0CA07C8
 
 Url,https://usamastersboxingon.sa.com/NdSOu/#TYWRtaW5AcXVlc3RhcmF1dG8uY29t
 Url,https://steamcommunity.com/profiles
@@ -1211,6 +1226,14 @@ Url,diamondtrustshipping.com/cal
 Url,jpo.vux.mybluehost.me/wp-content/online/
 Url,m-r.pw/Cal
 
+IpAddress,195.123.233.55
+IpAddress,38.180.142.249
+IpAddress,5.161.245.155
+IpAddress,20.115.96.90
+IpAddress,91.90.195.52
+IpAddress,195.123.233.42
+IpAddress,15.235.218.150
+IpAddress,77.246.101.135
 IpAddress,103.96.128.44
 IpAddress,144.91.79.54
 IpAddress,64.190.62.22
