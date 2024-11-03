@@ -105,8 +105,6 @@ DomainName,uoou-gov.cloud
 DomainName,vlada-gov.cloud
 DomainName,voa-gov.cloud
 DomainName,mfa-gov.cloud
-DomainName,mfa-gov.cloud
-DomainName,mfa-gov-il.cloud
 DomainName,mfa-gov-il.cloud
 DomainName,mfa-gov-tr.cloud
 DomainName,mfa-gov-tr.cloud
@@ -114,7 +112,6 @@ DomainName,mil-be.cloud
 DomainName,mil-ee.cloud
 DomainName,mil-pl.cloud
 DomainName,mil-pt.cloud
-DomainName,mod-gov-il.cloud
 DomainName,mod-gov-il.cloud
 DomainName,s3-acronis.cloud
 DomainName,s3-army.cloud
@@ -151,7 +148,6 @@ DomainName,s3-ucia.cloud
 DomainName,s3-zoho.cloud
 DomainName,ua-aws.army
 DomainName,ua-energy.cloud
-DomainName,ua-gov.cloud
 DomainName,ua-gov.cloud
 DomainName,ua-mil.cloud
 DomainName,ua-sec.cloud
@@ -1437,7 +1433,6 @@ Url,https://lemehost.net/login
 IpAddress,152.32.138.167
 IpAddress,45.32.41.202
 IpAddress,104.238.141.143
-IpAddress,158.247.199.37
 IpAddress,195.85.114.78
 IpAddress,38.180.110.238
 IpAddress,179.43.148.82
@@ -1575,11 +1570,7 @@ IpAddress,36.50.233.24
 IpAddress,87.120.117.196
 IpAddress,172.96.137.224
 IpAddress,45.32.41.202
-IpAddress,104.238.141.143
 IpAddress,158.247.199.37
 IpAddress,45.32.63.2
 IpAddress,80.66.196.199
-IpAddress,104.238.141.143
-IpAddress,158.247.199.37
-IpAddress,195.85.114.78
 IpAddress,172.232.167.68 
