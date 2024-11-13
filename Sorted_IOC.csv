@@ -486,7 +486,16 @@ DomainName,vacationtogotravels.net
 DomainName,rafaelsupport.com
 DomainName,rafaelconnect.com
 DomainName,.webflow.io/
+DomainName,careers2find.com
+DomainName,xboxapicenter.com
 
+FileSha256,918e70e3f5fdafad28effd512b2f2d21c86cb3d3f14ec14f7ff9e7f0760fd760
+FileSha256,bf308e5c91bcd04473126de716e3e668cac6cb1ac9c301132d61845a6d4cb362
+FileSha256,88097e4780bfdc184b16c5a8a90793983676ad43749ffca49c9d70780e32c33a
+FileSha256,73b95960a683a6c4ffc7e213b409e4089c70dc53020d7b04cf47c3db2a87bd3a
+FileSha256,d6048c65e0dae602043c1d4b86477996cde46d084c30cb28723b93a2ff40fe4a
+FileSha256,18ddf0b17618f91e922b5afa9b10a764df51cda4ddfd657f9da1c9dfb1e6442b
+FileSha256,bf308e5c91bcd04473126de716e3e668cac6cb1ac9c301132d61845a6d4cb362
 FileSha256,e3d118a5fd678701a5eecabab5fac245503290edde9fcaaea8303d79689b5c40
 FileSha256,b090020c37f1ad55ce0e8e64e030aaf03d52d36aa41ffdcea9aa9ab976f899dd
 FileSha256,9811f3f623cb821fb40713b7e05652a7f9d39f02f340e4f026e92e63fd902e07
@@ -1112,6 +1121,7 @@ FileSha256,6F31CF7A11189C683D8455180B4EE6A60781D2E3F3AADF3ECC86F578D480CFA9
 FileSha256,A47718693DC12F061692212A354AFBA8CA61590D8C25511C50CFECF73534C750
 FileSha256,76F959205D0A0C40F3200E174DB6BB030A1FDE39B0A190B6188D9C10A0CA07C8
 
+Url,raw.ghubusercontent.com/msdnedgesupport/
 Url,http:///193.242.145.138/mid/w1/Midjourney.msi
 Url,http://193.176.190.41/down1/nvinstall.msi
 Url,https://www.waktu.com.py/wrx/
@@ -1604,6 +1614,7 @@ Url,193.242.145.138/mid/w1/Midjourney.msi
 Url,193.176.190.41/down1/nvinstall.msi
 Url,http://103.116.8.66/login
 Url,https://lemehost.net/login
+Url,github.com/msdnedgesupport
 
 IpAddress,147.124.214.131
 IpAddress,147.124.212.146
@@ -1759,3 +1770,5 @@ IpAddress,158.247.199.37
 IpAddress,45.32.63.2
 IpAddress,80.66.196.199
 IpAddress,172.232.167.68 
+IpAddress,89.221.225.249
+IpAddress,185.186.244.130
