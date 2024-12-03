@@ -590,6 +590,10 @@ DomainName,ponnet.msk.su
 DomainName,mieten.com.ru
 DomainName,albumilustrado.msk.ru
 
+FileSha256,1185fd247dd05da6a2fa3c5e5b14c77081fbc4bcf0db4537df1e61fb783c3e11
+FileSha256,7e04e62f337c5059757956594b703fc1a995d436c48efa17c45eb0f80af8a890
+FileSha256,60b0b6755cf03ea8f6748a1e8b74a80a3d7637c986df64ee292f5ffefcd610a2
+FileSha256,2b6a273eae0fb1835393aea6c30521d9bf5e27421c2933bfb3beee8c5b27847e
 FileSha256,CE26AAC9BA7BE60BFB998BA6ADD6B34DA5A68506E9FEA9844DC44BAFE3CAB676
 FileSha256,0618BB997462F350BC4402C1A5656B38BEDC278455823AC249FD5119868D3DF4
 FileSha256,9FFAD9CF6D93B21BB0CA15DE9AB9E782E78F2B6356D05FB55FB95F55BEC9FC04
@@ -2078,6 +2082,7 @@ Url,GITHUB.COM/POWERSHELLEMPIRE/EMPIRE
 Url,https://apnasofa.com/episode/index#am9uYXRoYW4ubGV2eUBlY29ub215Lmdvdi5pbA==
 Url,https://www.google.tn/url?q=jonathan.levy@economy.gov.il&economy.gov.il&sa=t&url=amp/s/apnasofa.com/episode/index#am9uYXRoYW4ubGV2eUBlY29ub215Lmdvdi5pbA==
 Url,https://apnasofa.com/episode
+Url,http://38.54.84.83/MiddleWare/NewClient
 
 IpAddress,147.124.214.131
 IpAddress,147.124.212.146
