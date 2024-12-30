@@ -35,6 +35,8 @@ EmailAddress,luigi.lepera@comunedicrosia.it
 EmailAddress,rafiq@jamunagroup-bd.com
 EmailAddress,servicioalcliente@kfccostarica.com
 
+DomainName,gateway.storjshare.io
+DomainName,link.storjshare.io
 DomainName,nagofsg.com
 DomainName,tnagofsg.com
 DomainName,cyberhavenext.pro
@@ -707,6 +709,10 @@ DomainName,aborters.duckdns.org
 DomainName,anotherarmy.dns.army
 DomainName,mail.jhxkgroup.online
 
+FileSha256,5ee2120821e570760cfb22b8b1d3329407807c14d31c0667f47f36d5d11b0111
+FileSha256,d234bb81737612a4f9d18d47992412e84bbfb7f75de2c7c83e850c16b88f6fff
+FileSha256,6cc5b94b93bc91eb34447322cfc9b4b1cfbc1b201788acf68a0a53ce3cb091ab
+FileSha256,c42cc664d738825c4d144d9f273c99f42065e1cb25fb13ce504bab2c4d06922d
 FileSha256,f80b943a385f45000d2ec92b0a4c11380aa6664b2cc73abf6ec1caf64f802c18
 FileSha256,3c0eb5de2946c558159a6b6a656d463febee037c17a1f605330e601cfcd39615
 FileSha256,0d8c3289a2b21abb0d414e2c730d46081e9334a97b5e0b52b9a2f248c59a59ad
@@ -2593,3 +2599,5 @@ IpAddress,193.38.235.234
 IpAddress,174.138.62.35
 IpAddress,93.190.139.223
 IpAddress,185.182.193.120
+IpAddress,209.250.255.169
+IpAddress,80.240.30.16
