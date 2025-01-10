@@ -35,6 +35,7 @@ EmailAddress,luigi.lepera@comunedicrosia.it
 EmailAddress,rafiq@jamunagroup-bd.com
 EmailAddress,servicioalcliente@kfccostarica.com
 
+DomainName,cscrm-hiring.com
 DomainName,NJAUSTRAWBERRY.ASIA
 DomainName,MCASPROD.COM
 DomainName,PATIENT-FLOWER-CCEF.NIFTTYMAILCOM.WORKERS.DEV
@@ -716,6 +717,9 @@ DomainName,aborters.duckdns.org
 DomainName,anotherarmy.dns.army
 DomainName,mail.jhxkgroup.online
 
+FileSha256,96558bd6be9bcd8d25aed03b996db893ed7563cf10304dffe6423905772bbfa1
+FileSha256,62f3a21db99bcd45371ca4845c7296af81ce3ff6f0adcaee3f1698317dd4898b
+FileSha256,7c370211602fcb54bc988c40feeb3c45ce249a8ac5f063b2eb5410a42adcc030
 FileSha256,7353B0E429BF03CBC7342A2DA6947CCDCEA212714DBA75D399893152671A0543
 FileSha256,1F0F4415B738198CC82359212F3EAD281B7EB38070163A7782584F77346E619F
 FileSha256,D32585B207FD3E2CE87DC2EA33890A445D68A4001EA923DAA750D32B5DE52BF0
@@ -2462,7 +2466,10 @@ Url,https://microsoft-visualstudiocode.com/files/2.cmd
 Url,https://whyareyouherewho.ru/files/1.cmd
 Url,https://microsoft-visualstudiocode.com/files/2.bat
 Url,https://microsoft-visualstudiocode.com/files/1.bat
+Url,https://cscrm-hiring.com/cs-applicant-crm-installer.zip
+Url,http://93.115.172.41/private/aW5zdHJ1Y3Rpb25zCg==.txt
 
+IpAddress,93.115.172.41
 IpAddress,45.141.84.45
 IpAddress,147.124.214.131
 IpAddress,147.124.212.146
