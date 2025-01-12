@@ -38,6 +38,8 @@ EmailAddress,lars@rockymountainsnowguards.com
 EmailAddress,info@cameleonpublidesign.com
 EmailAddress,jczerwonka@integmech.com
 
+DomainNameתforextensions.com
+DomainName,checkpolicy.site
 DomainName,xrxtjvfgga.acasetorel.shop
 DomainName,youtube.com@legalskillstraining.co.uk
 DomainName,skilledsolutionsconsulting.com
@@ -726,6 +728,7 @@ DomainName,mail.jhxkgroup.online
 DomainName,atooz.com.bd
 DomainName,fp.eutenant.com
 
+FileSha256,a8d3027be48f61ae6174d067e59e89b7ec47ae19420470248733d8c4b75fda52
 FileSha256,96558bd6be9bcd8d25aed03b996db893ed7563cf10304dffe6423905772bbfa1
 FileSha256,62f3a21db99bcd45371ca4845c7296af81ce3ff6f0adcaee3f1698317dd4898b
 FileSha256,7c370211602fcb54bc988c40feeb3c45ce249a8ac5f063b2eb5410a42adcc030
@@ -2689,3 +2692,5 @@ IpAddress,124.223.12.165
 IpAddress,80.240.30.16
 IpAddress,176.10.125.107
 IpAddress,209.250.255.169
+IpAddress,149.248.2.160
+IpAddress,149.28.124.84
