@@ -48,6 +48,10 @@ EmailAddress,kilmainham.gaol.pbavg@gatehousestudios.co.uk
 EmailAddress,conin.264@misedu.edu.sa
 EmailAddress,drive-shares-noreply@google.com
 
+DomainName,TOOLGPT.BUZZ
+DomainName,UPDASH.INFO
+DomainName,SOLARRADIATIONNEUTRON.APPSPOT.COM
+DomainName,SATURN789454.APPSPOT.COM
 DomainName,guard.verification.onlineconnectionstatus.my
 DomainName,integmech.com
 DomainName,forextensions.com
@@ -756,6 +760,8 @@ DomainName,login.chinhphuna.com
 DomainName,cookteach.net
 DomainName,PLUMBERSROWLETTTX.COM
 
+FileSha256,8689D59AAC223219E0FDB7886BE289A9536817EB6711089B5DD099A1E580F8E4
+FileSha256,D512664DF24B5F8A2B1211D240E3E767F5DD06809BB67AFA367CDC06E2366AEC
 FileSha256,3552dda80bd6875c1ed1273ca7562c9ace3de2f757266dae70f60bf204089a4a
 FileSha256,bb8237a721b151443234b853e8720cff7350913a26d96abe97fe6b5946885068
 FileSha256,5b7b0eed5b1353395fb023081b8bd69828645ff63a99ff1e4ab801c771f271c4
@@ -2697,7 +2703,11 @@ Url,https://microsoft-visualstudiocode.com/files/2.bat
 Url,https://microsoft-visualstudiocode.com/files/1.bat
 Url,https://cscrm-hiring.com/cs-applicant-crm-installer.zip
 Url,http://93.115.172.41/private/aW5zdHJ1Y3Rpb25zCg==.txt
+Url,HTTP://193.36.38.116:5000/
+Url,HTTP://18.207.0.168/
 
+IpAddress,193.36.38.116
+IpAddress,196.41.123.188
 IpAddress,93.115.172.41
 IpAddress,45.141.84.45
 IpAddress,147.124.214.131
