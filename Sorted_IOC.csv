@@ -65,6 +65,8 @@ EmailAddress,microtechz-inc.com
 EmailAddress,victor.rodrigues@bps4.com.br
 EmailAddress,bianca.silva@alvesribeiro.eng.br
 
+DomainName,launchapps.site
+DomainName,chrome.browser.com.de
 DomainName,v475t82f.api.sanity.io
 DomainName,pango-tech.com
 DomainName,network.oossafe.com
@@ -3576,6 +3578,9 @@ FileSha256,1DA298CAB4D537B0B7B5DABF09BFF6A212B9E45731E0CC772F99026005FB9E48
 FileSha256,2C968C23E15BE37CD5D0FEEE0C15B4F4BC172594E67035F9F3ED9DA46751DDF5
 FileSha256,C28C1D76B1937373BE1B5D5455E2ACCF3698C41CB3815D01209B232E82B6DAE0
 FileSha256,F4F1C01264EB138C80A8DEAB4463951ACF3222FCAA2141E6B0CC12405191A219
+FileSha256,48fdfbe23eef7eddff071d3eda1bc654b94cf86036ca1cca9c73b0175e168a55
+FileSha256,f0977c293f94492921452921181d79e8790f34939429924063e77e120ebd23d7
+FileSha256,0f9b2870c4be5ebacb936000ff41f8075ec88d6535161a93df8e6cfea2d8db54
 
 FileSha1,F3E5A2E477CAC4BAB85940A2158EED78F2D74441 
 FileSha1,59E1322440B4601D614277FE9092902B6CA471C2
@@ -3657,6 +3662,9 @@ FileSha1,b03b00fc89325d667cc73346fe2f0852a7fd5d6c
 FileSha1,264ce80d74b8ded5637d5dfcc36115a92a57619b
 FileSha1,a1e4401890942f50d69697254e5bf5c0b64960ff
 
+Url,sites.google.com/view/gfbtechd/
+Url,https[://]pastebin.com/raw/eB8bmiVA
+Url,chrome.browser.com.de/GoogleChrome.exe
 Url,https://encrypthub.us/encrypthub/stealc/stealc.exe
 Url,https://sunakhee.com/auth/microsoft/callback
 Url,https://linkwebcisco.com/
@@ -4730,3 +4738,4 @@ IpAddress,208.85.16.252
 IpAddress,37.120.239.33
 IpAddress,193.56.255.214
 IpAddress,139.84.137.63
+IpAddress,45.141.84.208
