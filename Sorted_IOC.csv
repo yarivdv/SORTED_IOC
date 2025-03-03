@@ -65,6 +65,8 @@ EmailAddress,microtechz-inc.com
 EmailAddress,victor.rodrigues@bps4.com.br
 EmailAddress,bianca.silva@alvesribeiro.eng.br
 
+DomainName,ZYXGATE.COM
+DomainName,FLUXCOUNT.COM
 DomainName,g-filedrive.com
 DomainName,fileattchment.com
 DomainName,attchfiledownloads.com
@@ -2492,6 +2494,8 @@ DomainName,superhoroz.xyz
 DomainName,tokosayur.shop
 DomainName,yusufzdemir.xyz
 
+FileSha256,16242530BFD0856413588983513FFF4EF9DA62DAFB8986B2B57353643CBDEBB5
+FileSha256,90B806836BB8CDA43F81B5AE6F9146A1607BE7B80E482DC49FA447DCA3184ACA
 FileSha256,1A998EEA42A40C953B767D7418331BEE53736A82D57EBFD2B66CF02C310F94B2
 FileSha256,8F9263B990B6E24E9353D49E33B253A4138B7BFDAF135F119DD4AAD3236A7D58
 FileSha256,9446165c038e30d89a877728d767a791b4beec6755834d7eeac5f3c418d4834c
@@ -4591,6 +4595,8 @@ Url,https://poormet.com/lol.zip?&files=5606
 Url,https://cinaweine.shop/work/
 Url,https://sustainabuz.com/redir.html
 Url,https://ucarecdn.com/284fd1ce-7457-44c8-a85c-8eea6e7f15ea/
+Url,HTTPS://FLUXCOUNT.COM/CONNECT
+Url,HTTPS://FLUXCOUNT.COM/USERFILES/B3.EXE
 
 IpAddress,193.36.38.116
 IpAddress,196.41.123.188
