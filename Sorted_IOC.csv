@@ -118,7 +118,7 @@ DomainName,209oss.oss-cn-beijing.aliyuncs.com
 DomainName,21o9ss.oss-cn-shanghai.aliyuncs.com
 DomainName,ali288.oss-cn-hangzhou.aliyuncs.com
 DomainName,10mm.oss-cn-hangzhou.aliyuncs.com
-1DomainName,01oss.oss-cn-beijing.aliyuncs.com
+DomainName,01oss.oss-cn-beijing.aliyuncs.com
 DomainName,2o7cn.oss-cn-qingdao.aliyuncs.com
 DomainName,50oos.oss-cn-shanghai.aliyuncs.com
 DomainName,7sso7.oss-cn-beijing.aliyuncs.com
@@ -2497,6 +2497,9 @@ DomainName,superhoroz.xyz
 DomainName,tokosayur.shop
 DomainName,yusufzdemir.xyz
 
+FileSha256,b93eeeb2063e69101c78eb218991c82f9228191794a4d289ba1403b076c5eef2
+FileSha256,c71195d65ab158d0bb6d1d7216053982cecc2913bbee1feb44ba41047b6578ce
+FileSha256,fbd5e3eb17ef62f2ecf7890108a3af9bcc229aaa51820a6e5ec08a56864d864d
 FileSha256,16242530BFD0856413588983513FFF4EF9DA62DAFB8986B2B57353643CBDEBB5
 FileSha256,90B806836BB8CDA43F81B5AE6F9146A1607BE7B80E482DC49FA447DCA3184ACA
 FileSha256,1A998EEA42A40C953B767D7418331BEE53736A82D57EBFD2B66CF02C310F94B2
