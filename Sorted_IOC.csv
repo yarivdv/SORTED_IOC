@@ -1,4 +1,6 @@
 ﻿Type,IOC
+EmailAddress,tovie@effectiveonline.co.il
+EmailAddress,aviunger@gush-etzion.org.il
 EmailAddress,alexandre.poio@concob.com.br
 EmailAddress,noreply@guenterreisacher.de
 EmailAddress,media@pharmaseeco.com
@@ -3766,6 +3768,8 @@ FileSha1,b03b00fc89325d667cc73346fe2f0852a7fd5d6c
 FileSha1,264ce80d74b8ded5637d5dfcc36115a92a57619b
 FileSha1,a1e4401890942f50d69697254e5bf5c0b64960ff
 
+Url,https://office.sedonaphermgroup.com/common/oauth2/v2.0/authorize
+Url,https://app.appsmith.com/app/document-review/page1-67c4cb1f1c51aa33f7515ba7
 Url,https://bung486.com/oot.setup.w06.exe
 Url,https://22mm.oss-cn-hangzhou.aliyuncs.com/s.dat
 Url,sites.google.com/view/gfbtechd/
