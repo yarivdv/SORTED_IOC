@@ -68,6 +68,7 @@ EmailAddress,microtechz-inc.com
 EmailAddress,victor.rodrigues@bps4.com.br
 EmailAddress,bianca.silva@alvesribeiro.eng.br
 
+DomainName,document-to-review.glide.page
 DomainName,yqnep4b4oelq.digitalerra.com
 DomainName,JOJO.ATH.CX
 DomainName,office.sedonaphermgroup.com
@@ -2505,6 +2506,10 @@ DomainName,superhoroz.xyz
 DomainName,tokosayur.shop
 DomainName,yusufzdemir.xyz
 
+FileSha256,5735722568343d6d81cf2b4c4fb17cee3800119e7ff81b9315c046a2a30a6e9d
+FileSha256,f4516382419c1e89aa4d8960ce581ad030e838703ceade4e9876eba3d1da6b84
+FileSha256,de10accbf325ba23a8f4550e42af20bcd56570a0d0075aafb63a7658586f23af
+FileSha256,50e02cddbad74cdff50a7beb3f396f853bac443370173cad2427cca02b4fba4b
 FileSha256,50E02CDDBAD74CDFF50A7BEB3F396F853BAC443370173CAD2427CCA02B4FBA4B
 FileSha256,DE10ACCBF325BA23A8F4550E42AF20BCD56570A0D0075AAFB63A7658586F23AF
 FileSha256,b29b46e8ce76f8d8065455c205c82184a30f1fe0f2e8e2e224add2b02f2b4019
@@ -4639,6 +4644,8 @@ Url,HTTPS://FLUXCOUNT.COM/USERFILES/B3.EXE
 Url,https://app.safe.global/_next/static/chunks/pages/_app-52c9031bfa03da47.js
 Url,https://document-to-review-today.glide.page/
 Url,http://62.133.61.75/Documents/desktop.ini
+Url,https://document-to-review.glide.page/
+
 
 IpAddress,193.36.38.116
 IpAddress,196.41.123.188
@@ -4906,3 +4913,7 @@ IpAddress,194.87.216.247
 IpAddress,5.253.59.172
 IpAddress,157.20.182.164
 IpAddress,62.133.61.75
+IpAddress,94.159.99.169
+IpAddress,194.87.216.179
+IpAddress,194.87.216.247
+IpAddress,5.253.59.172
