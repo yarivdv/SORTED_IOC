@@ -72,6 +72,7 @@ EmailAddress,microtechz-inc.com
 EmailAddress,victor.rodrigues@bps4.com.br
 EmailAddress,bianca.silva@alvesribeiro.eng.br
 
+DomainName,DATA-SEED-PREBSC-1-S1.BNBCHAIN.ORG
 DomainName,zuvinak.sa.com
 DomainName,hashvault.pro
 DomainName,torivel.sa.com
@@ -4666,8 +4667,10 @@ Url,https://app.safe.global/_next/static/chunks/pages/_app-52c9031bfa03da47.js
 Url,https://document-to-review-today.glide.page/
 Url,http://62.133.61.75/Documents/desktop.ini
 Url,https://document-to-review.glide.page/
+Url,HTTPS://DATA-SEED-PREBSC-1-S1.BNBCHAIN.ORG:8545/
 
-
+IpAddress,15.197.152.159
+IpAddress,3.33.155.121
 IpAddress,193.36.38.116
 IpAddress,196.41.123.188
 IpAddress,93.115.172.41
