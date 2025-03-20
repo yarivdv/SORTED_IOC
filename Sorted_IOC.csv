@@ -1,4 +1,5 @@
 ﻿Type,IOC
+EmailAddress,dekel@shanti.org.il
 EmailAddress,pinnie@pingadesign.com
 EmailAddress,avalon-wyhidky1htuktuhhdt1j@cmail19.com
 EmailAddress,noreply@amda.com.au
@@ -72,6 +73,8 @@ EmailAddress,microtechz-inc.com
 EmailAddress,victor.rodrigues@bps4.com.br
 EmailAddress,bianca.silva@alvesribeiro.eng.br
 
+DomainName,document.angelbridalonline.com
+DomainName,gamma.app
 DomainName,DATA-SEED-PREBSC-1-S1.BNBCHAIN.ORG
 DomainName,zuvinak.sa.com
 DomainName,hashvault.pro
@@ -4668,6 +4671,10 @@ Url,https://document-to-review-today.glide.page/
 Url,http://62.133.61.75/Documents/desktop.ini
 Url,https://document-to-review.glide.page/
 Url,HTTPS://DATA-SEED-PREBSC-1-S1.BNBCHAIN.ORG:8545/
+Url,https://shorten.is/CopY2
+Url,https://document.angelbridalonline.com/
+Url,https://app.adjust.com/6m6i49o?adgroup=control__tier2&adid=661978e69f11daf5ac9712ccea46ea0c&campaign=crm_email_unlimited_100923&creative=control&gps_adid=4dcf5721-6d0b-45c0-971c-8eb45bdee7cf&label=14fc05ac-3325-4ef0-8b5f-00f77392407f&redirect=https://gamma.app/docs/You-have-received-a-new-PDF-Document-8oa1upj4r4fqvt2
+Url,https://gamma.app/docs/You-have-received-a-new-PDF-Document-8oa1upj4r4fqvt2
 
 IpAddress,15.197.152.159
 IpAddress,3.33.155.121
