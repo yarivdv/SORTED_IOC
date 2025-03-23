@@ -2526,7 +2526,10 @@ DomainName,superhoroz.xyz
 DomainName,tokosayur.shop
 DomainName,yusufzdemir.xyz
 DomainName,mol.talentcompanys.com
+DomainName,DATA-SEED-PREBSC-1-S1.BNBCHAIN.ORG
 
+FileSha256,8DE5504E3748DE368DFDD4F85F2C2FE50B0AA1D3ED4DA80EC6A86E7C91E196F7
+FileSha256,FB0255C66344280E104DF17C34F0455DE79A2EE24CAA01EB66C280ED158BDDB0
 FileSha256,1351ad08856eac074694fe8cc22bdfa44d06855ab79cd6e60fd5b7e39aacb56b
 FileSha256,2d15662e1e68fae346aec8d0f4c200bbdecfafef9b0eefffaeea303a5005dfb7
 FileSha256,75636723eb6dd99e1f8f024ab8dab5f38f214cb0bd59062d6a8bee84531af619
@@ -4695,6 +4698,7 @@ Url,https://document.angelbridalonline.com/
 Url,https://app.adjust.com/6m6i49o?adgroup=control__tier2&adid=661978e69f11daf5ac9712ccea46ea0c&campaign=crm_email_unlimited_100923&creative=control&gps_adid=4dcf5721-6d0b-45c0-971c-8eb45bdee7cf&label=14fc05ac-3325-4ef0-8b5f-00f77392407f&redirect=https://gamma.app/docs/You-have-received-a-new-PDF-Document-8oa1upj4r4fqvt2
 Url,https://gamma.app/docs/You-have-received-a-new-PDF-Document-8oa1upj4r4fqvt2
 Url,https://gamma.app/docs/
+Url,HTTPS://DATA-SEED-PREBSC-1-S1.BNBCHAIN.ORG:8545/
 
 IpAddress,15.197.152.159
 IpAddress,3.33.155.121
@@ -4967,5 +4971,7 @@ IpAddress,62.133.61.75
 IpAddress,94.159.99.169
 IpAddress,194.87.216.179
 IpAddress,194.87.216.247
+IpAddress,15.197.152.159
+IpAddress,3.33.155.121
 IpAddress,5.253.59.172
 IpAddress,102.22.220.26
