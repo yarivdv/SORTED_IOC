@@ -1,4 +1,9 @@
 ﻿Type,IOC
+EmailAddress,key.medusa.serviceteam@protonmail.com
+EmailAddress,mds.svt.breach@protonmail.com
+EmailAddress,medusa.support@onionmail.org
+EmailAddress,mds.svt.mir2@protonmail.com
+EmailAddress,medusasupport@cock.li
 EmailAddress,claudio.castronuovo@link.it
 EmailAddress,dekel@shanti.org.il
 EmailAddress,pinnie@pingadesign.com
@@ -2557,6 +2562,8 @@ DomainName,yusufzdemir.xyz
 DomainName,mol.talentcompanys.com
 DomainName,DATA-SEED-PREBSC-1-S1.BNBCHAIN.ORG
 
+FileSha256,56b08aa03bd8c0ea094cfeb03d5954ffd857bac42df929dc835eea62f32b09e0
+FileSha256,baa980ae253101066ae7e551a354116454e8697ff2154a907c9885770cdae4ae
 FileSha256,CBD9226C470EFD29143F357E9EE0F6B2D20456041A0B4CB74912CCCE9E37F97D
 FileSha256,CF31E682396556B5CFC16E660417B9C52DA38E543229CCD0430C59C6A6227B79
 FileSha256,F9127BB4981FFEF3181CD574220943AB67AE8E105B2F9384A07D097FD0799B99
