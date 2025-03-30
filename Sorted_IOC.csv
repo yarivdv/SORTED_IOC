@@ -74,6 +74,11 @@ EmailAddress,microtechz-inc.com
 EmailAddress,victor.rodrigues@bps4.com.br
 EmailAddress,bianca.silva@alvesribeiro.eng.br
 
+DomainName,FUCKEDSERVER.NET
+DomainName,ENCRYPTHUB.NET
+DomainName,ENCRYPTHUB.ORG
+DomainName,CIPHERCALL.NET
+DomainName,CRYPTOLABSTUDIO.COM
 DomainName,test.docsignmissingtimesheet.nl
 DomainName,GABH.GOTDNS.CH
 DomainName,il-pango.com
@@ -4150,6 +4155,9 @@ FileSha1,b03b00fc89325d667cc73346fe2f0852a7fd5d6c
 FileSha1,264ce80d74b8ded5637d5dfcc36115a92a57619b
 FileSha1,a1e4401890942f50d69697254e5bf5c0b64960ff
 
+Url,RAW.GITHUBUSERCONTENT.COM/ENCRYPTHUB/STEAL/MAIN/
+Url,SKORIKJR.GITHUB.IO/SPLOIT/
+Url,RAW.GITHUBUSERCONTENT.COM/SKORIKJR/
 Url,https://document-to-review-tuesda.glide.page/
 Url,https://document-to-review-tuesda.glide.page/dl/6471c6
 Url,https://shorten.is/09aie
@@ -5300,3 +5308,4 @@ IpAddress,3.33.155.121
 IpAddress,5.253.59.172
 IpAddress,102.22.220.26
 IpAddress,46.121.250.34
+IpAddress,82.115.223.182
