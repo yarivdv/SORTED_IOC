@@ -88,6 +88,7 @@ EmailAddress,victor.rodrigues@bps4.com.br
 EmailAddress,bianca.silva@alvesribeiro.eng.br
 EmailAddress,giorgie@migliozziarchitecture.com
 
+DomainName,relay.ziadpaneel.com
 DomainName,13june.net
 DomainName,live-kora-tv.com
 DomainName,andronor.com
@@ -5943,3 +5944,4 @@ IpAddress,185.195.64.165
 IpAddress,38.54.68.13
 IpAddress,38.54.81.179
 IpAddress,45.32.100.246
+IpAddress,104.194.148.15
