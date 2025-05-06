@@ -99,8 +99,8 @@ EmailAddress,ENOCK.MUSOKE@UNBS.GO.UG
 EmailAddress,INFO@PRAWATMS.ORG.NG
 EmailAddress,SUPPORT@2FA.COM
 
-DomainName,cluster .amazonaws.work
-DomainName,schema .postman.sh
+DomainName,cluster.amazonaws.work
+DomainName,schema.postman.sh
 DomainName,encoremir.com
 DomainName,appstgs.com
 DomainName,hewlettpackardupdates.info
