@@ -99,6 +99,15 @@ EmailAddress,ENOCK.MUSOKE@UNBS.GO.UG
 EmailAddress,INFO@PRAWATMS.ORG.NG
 EmailAddress,SUPPORT@2FA.COM
 
+DomainName,cluster .amazonaws.work
+DomainName,schema .postman.sh
+DomainName,encoremir.com
+DomainName,appstgs.com
+DomainName,hewlettpackardupdates.info
+DomainName,apps.gist.githubapp.net
+DomainName,cdn.gupdate.net
+DomainName,connect.mozilla.one
+DomainName,savooks.com
 DomainName,ar.easingaffix.site
 DomainName,mt.dybep.fun
 DomainName,mq.dybep.fun
@@ -4645,6 +4654,16 @@ FileSha1,1b4b4e910bfd31f5f3f2f3a269bf2c994978b78a
 FileSha1,2a720281cd869c1aaaca430a96cf980f623e0f76
 FileSha1,111caef54a6bb02a11d8c6f923e5c8b1f2323eb3
 
+Url,https://drive.usercontent.google.com/download?id=1VKzmgdpSLWVl1CrC9qVqOOABk2Xf7Bbe&export=view
+Url,https://gitlab.com/ocr-view/mmocr-ref-manual/-/raw/main/IM0077782.png
+Url,https://raw.githubusercontent.com/Ocr-text2image-mos/mmocr_ref/refs/heads/main/demo/resources/mmocrlogo.png
+Url,https://s3.solarcom.ch/gist.github.com/resources/logo.png
+Url,https://social.zerotier.app:443/agent.ashx
+Url,https://docs.google.com/document/export?format=txt&id=1YwJBwB5vc4uuSA3iebzUb0zd93bidEDzyhs-xbK7vvc
+Url,https://docs.google.com/document/export?format=txt&id=1Zg3DwBqKRuAjyhdlS-P29Jn5odm1mr36j3_xsEF8Uvc
+Url,https://docs.google.com/document/export?format=txt&id=1gSrKZd2I1Toj4f7G8TbzSf2A_sm8r1v5UHDUoKZGKbc
+Url,https://docs.google.com/document/export?format=txt&id=13njrS8e3Y3hUrVxHSQ0sALSoQBcQthLt4RGE-EyserQ
+Url,https://docs.google.com/document/export?format=txt&id=1_DXc1ushx-Cb0L4N_P2p2iT4Dpx3_9YjCKnL7IeRPjM
 Url,HTTPS://SECURE312.INMOTIONHOSTING.COM/~WAZZUP6/TAX/IL-CASE/TAX-486-302178.HTML
 Url,HTTPS://SECURE312.INMOTIONHOSTING.COM/~WAZZUP6/TAX/IL-CASE/IL-CHECK.PHP
 Url,HTTPS://SECURE312.INMOTIONHOSTING.COM/~WAZZUP6/TAX/CASE/IL/DOWNLOAD.PHP
